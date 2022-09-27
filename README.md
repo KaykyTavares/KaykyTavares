@@ -1,10 +1,10 @@
-<img align="right" height="400em"
+<img align="right" height="300em"
 src="https://github.com/KaykyTavares/KaykyTavares/blob/main/programmingGif.gif"/>
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Kayky Tavares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaykyTavares&color=green" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on Alest (TKTL Informática) 🦊
-- 🌱 I’m currently learning ReactTS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="18px"/>, TypeScript <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="17px"/> and NodeJS <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="17px"/>
+- 🌱 I’m currently learning ReactTS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="18px"/>, TypeScript <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="17px"/> and NodeJS <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="17px"/>.
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -21,7 +21,7 @@ src="https://github.com/KaykyTavares/KaykyTavares/blob/main/programmingGif.gif"/
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/88904495/192564149-4aa52b55-343d-4bb1-8887-6b15bbec537a.png" height="30em"/> &nbsp;GitHub Analytics
 
 
 <p align="center">
@@ -31,7 +31,7 @@ src="https://github.com/KaykyTavares/KaykyTavares/blob/main/programmingGif.gif"/
 
 <br><br>
 
-## Contact
+## <img src="https://user-images.githubusercontent.com/88904495/192564974-4df031bb-0a4c-4efb-99a9-e592b2b92b35.svg" height="30em"/> Contact
 
 <p align="left" style="background:yellow">
 <a href="https://www.facebook.com/kayky.tavares.96/" target="_blank">
