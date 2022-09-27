@@ -1,5 +1,5 @@
 <img align="right" height="300em"
-src="https://github.com/KaykyTavares/KaykyTavares/blob/main/programmingGif.gif"/>
+src="https://user-images.githubusercontent.com/88904495/192568918-60814e7f-4176-4be7-a502-0f7118986f89.gif"/>
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Kayky Tavares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaykyTavares&color=green" alt="Profile views" /> </p>
 
