@@ -4,9 +4,7 @@ src="https://user-images.githubusercontent.com/88904495/192568918-60814e7f-4176-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaykyTavares&color=green" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on Alest (TKTL Informática) 🦊
-- 🌱 I’m currently learning ReactTS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="18px"/>, TypeScript <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="17px"/> and NodeJS <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="17px"/>.
-<br><br>
-
+  
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
